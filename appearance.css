@@ -6,7 +6,15 @@
 
 .house{
     color:black;
-    text-align:right;
-
+    left: 225px;
+    width: 10px;
+    height: 100px;
+    
 }
 
+.page2{
+    color: black;
+    text-align: left;
+    
+
+}
